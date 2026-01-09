@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.backend-{{ environment }}.vinodh.site
-REDIS_HOST: redis-{{ environment }}.vinodh.site
+CATALOGUE_HOST: catalogue.backend-{{ env }}.vinodh.site
+REDIS_HOST: redis-{{ env }}.vinodh.site

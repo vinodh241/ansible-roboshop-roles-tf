@@ -1,5 +1,5 @@
-CART_HOST: cart.backend-{{ environment }}.vinodh.site
-USER_HOST: user.backend-{{ environment }}.vinodh.site
-RABBITMQ_HOST: rabbitmq-{{ environment }}.vinodh.site
+CART_HOST: cart.backend-{{ env }}.vinodh.site
+USER_HOST: user.backend-{{ env }}.vinodh.site
+RABBITMQ_HOST: rabbitmq-{{ env }}.vinodh.site
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123

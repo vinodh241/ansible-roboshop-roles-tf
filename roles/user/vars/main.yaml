@@ -1,2 +1,2 @@
-REDIS_HOST: redis-{{ environment }}.vinodh.site
-MONGODB_HOST: mongodb-{{ environment }}.vinodh.site
+REDIS_HOST: redis-{{ env }}.vinodh.site
+MONGODB_HOST: mongodb-{{ env }}.vinodh.site
